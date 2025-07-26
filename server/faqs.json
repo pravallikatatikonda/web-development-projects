@@ -1,0 +1,22 @@
+[
+  {
+    "question": "What is AI?",
+    "answer": "AI stands for Artificial Intelligence. It allows machines to mimic human intelligence."
+  },
+  {
+    "question": "What is a chatbot?",
+    "answer": "A chatbot is a program that simulates human conversation using AI or rule-based logic."
+  },
+  {
+    "question": "How does the FAQ bot work?",
+    "answer": "It uses simple keyword matching to answer frequently asked questions from a dataset."
+  },
+  {
+    "question": "What is React?",
+    "answer": "React is a JavaScript library for building user interfaces."
+  },
+  {
+    "question": "How to contact support?",
+    "answer": "You can contact our support team via email at support@example.com."
+  }
+]
